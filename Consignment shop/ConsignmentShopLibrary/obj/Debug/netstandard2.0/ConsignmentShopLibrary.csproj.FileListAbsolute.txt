@@ -1,0 +1,9 @@
+C:\Users\Acer\source\repos\Consignment shop\ConsignmentShopLibrary\obj\Debug\netstandard2.0\ConsignmentShopLibrary.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Consignment shop\ConsignmentShopLibrary\obj\Debug\netstandard2.0\ConsignmentShopLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Consignment shop\ConsignmentShopLibrary\obj\Debug\netstandard2.0\ConsignmentShopLibrary.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Consignment shop\ConsignmentShopLibrary\obj\Debug\netstandard2.0\ConsignmentShopLibrary.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Consignment shop\ConsignmentShopLibrary\bin\Debug\netstandard2.0\ConsignmentShopLibrary.deps.json
+C:\Users\Acer\source\repos\Consignment shop\ConsignmentShopLibrary\bin\Debug\netstandard2.0\ConsignmentShopLibrary.dll
+C:\Users\Acer\source\repos\Consignment shop\ConsignmentShopLibrary\bin\Debug\netstandard2.0\ConsignmentShopLibrary.pdb
+C:\Users\Acer\source\repos\Consignment shop\ConsignmentShopLibrary\obj\Debug\netstandard2.0\ConsignmentShopLibrary.dll
+C:\Users\Acer\source\repos\Consignment shop\ConsignmentShopLibrary\obj\Debug\netstandard2.0\ConsignmentShopLibrary.pdb
